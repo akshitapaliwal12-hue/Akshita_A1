@@ -37,6 +37,7 @@ int main()
     printf("%d\n", fun2(5));
     printf("%d\n", fun3(6));
     printf("%d\n", fun4(7));
+    printf("%d\n", fun4(10));
     
 
 }
